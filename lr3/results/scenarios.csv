@@ -1,0 +1,8 @@
+scenario,status,cost,seconds,mip_gap_fraction,dual_bound,nodes,assignment_cost,hiring_cost
+base,optimal,366.0,0.0035819520001041383,0.0,366.0,1,253.0,113.0
+deficit,optimal,389.0,0.0017106309999235236,0.0,389.0,1,261.0,128.0
+stress,optimal,410.0,0.0016550269999697775,0.0,410.0,1,279.0,131.0
+base_lp,optimal,358.5,,,,,242.5,116.0
+loose_lp,optimal,242.616,,,,,242.5,0.11600000000000002
+loose_milp,optimal,366.0,0.002110131000108595,0.0,366.0,1,253.0,113.0
+greedy,feasible,388.0,0.00021328100001483108,,,,274.0,114.0

@@ -1,0 +1,96 @@
+
+=== base ===
+Running HiGHS 1.8.0 (git hash: 222cce7): Copyright (c) 2024 HiGHS under MIT licence terms
+Coefficient ranges:
+  Matrix [1e+00, 1e+00]
+  Cost   [1e+01, 6e+01]
+  Bound  [1e+01, 4e+01]
+  RHS    [2e+01, 4e+01]
+Presolving model
+6 rows, 13 cols, 24 nonzeros  0s
+6 rows, 13 cols, 24 nonzeros  0s
+Presolve : Reductions: rows 6(-1); columns 13(-1); elements 24(-2)
+Solving the presolved LP
+Using EKK dual simplex solver - serial
+  Iteration        Objective     Infeasibilities num(sum)
+          0     4.8000000000e+02 Pr: 6(200) 0s
+          5     3.0000000000e+03 Pr: 0(0) 0s
+Solving the original LP from the solution after postsolve
+Model status        : Optimal
+Simplex   iterations: 5
+Objective value     :  3.0000000000e+03
+Relative P-D gap    :  0.0000000000e+00
+HiGHS run time      :          0.00
+optimal | Optimization terminated successfully. (HiGHS Status 7: Optimal)
+
+=== congestion ===
+Running HiGHS 1.8.0 (git hash: 222cce7): Copyright (c) 2024 HiGHS under MIT licence terms
+Coefficient ranges:
+  Matrix [1e+00, 1e+00]
+  Cost   [1e+01, 6e+01]
+  Bound  [1e+01, 4e+01]
+  RHS    [2e+01, 4e+01]
+Presolving model
+6 rows, 13 cols, 24 nonzeros  0s
+6 rows, 13 cols, 24 nonzeros  0s
+Presolve : Reductions: rows 6(-1); columns 13(-1); elements 24(-2)
+Solving the presolved LP
+Using EKK dual simplex solver - serial
+  Iteration        Objective     Infeasibilities num(sum)
+          0     4.8000000000e+02 Pr: 6(200) 0s
+          5     3.0375000000e+03 Pr: 0(0) 0s
+Solving the original LP from the solution after postsolve
+Model status        : Optimal
+Simplex   iterations: 5
+Objective value     :  3.0375000000e+03
+Relative P-D gap    :  0.0000000000e+00
+HiGHS run time      :          0.00
+optimal | Optimization terminated successfully. (HiGHS Status 7: Optimal)
+
+=== growth ===
+Running HiGHS 1.8.0 (git hash: 222cce7): Copyright (c) 2024 HiGHS under MIT licence terms
+Coefficient ranges:
+  Matrix [1e+00, 1e+00]
+  Cost   [1e+01, 6e+01]
+  Bound  [1e+01, 4e+01]
+  RHS    [2e+01, 5e+01]
+Presolving model
+6 rows, 13 cols, 24 nonzeros  0s
+6 rows, 13 cols, 24 nonzeros  0s
+Presolve : Reductions: rows 6(-1); columns 13(-1); elements 24(-2)
+Solving the presolved LP
+Using EKK dual simplex solver - serial
+  Iteration        Objective     Infeasibilities num(sum)
+          0     5.7600000000e+02 Pr: 6(240) 0s
+          5     3.6300000000e+03 Pr: 0(0) 0s
+Solving the original LP from the solution after postsolve
+Model status        : Optimal
+Simplex   iterations: 5
+Objective value     :  3.6300000000e+03
+Relative P-D gap    :  0.0000000000e+00
+HiGHS run time      :          0.00
+optimal | Optimization terminated successfully. (HiGHS Status 7: Optimal)
+
+=== failure ===
+Running HiGHS 1.8.0 (git hash: 222cce7): Copyright (c) 2024 HiGHS under MIT licence terms
+Coefficient ranges:
+  Matrix [1e+00, 1e+00]
+  Cost   [1e+01, 6e+01]
+  Bound  [1e+01, 4e+01]
+  RHS    [2e+01, 4e+01]
+Presolving model
+6 rows, 12 cols, 22 nonzeros  0s
+4 rows, 10 cols, 18 nonzeros  0s
+Presolve : Reductions: rows 4(-3); columns 10(-4); elements 18(-8)
+Solving the presolved LP
+Using EKK dual simplex solver - serial
+  Iteration        Objective     Infeasibilities num(sum)
+          0     0.0000000000e+00 Ph1: 0(0) 0s
+          5     3.2620000000e+03 Pr: 0(0) 0s
+Solving the original LP from the solution after postsolve
+Model status        : Optimal
+Simplex   iterations: 5
+Objective value     :  3.2620000000e+03
+Relative P-D gap    :  0.0000000000e+00
+HiGHS run time      :          0.00
+optimal | Optimization terminated successfully. (HiGHS Status 7: Optimal)

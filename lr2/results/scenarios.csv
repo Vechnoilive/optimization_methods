@@ -1,0 +1,6 @@
+scenario,busiest_arc_capacity,demand,status,cost,delta,iterations
+base,15,120,optimal,3000.0,0.0,5
+congestion,11.25,120,optimal,3037.5,37.5,5
+growth,15,144.0,optimal,3630.0,630.0,5
+failure,0,120,optimal,3262.0,262.0,5
+greedy,15,120,feasible,3088.0,88.0,

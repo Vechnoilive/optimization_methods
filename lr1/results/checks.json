@@ -1,0 +1,51 @@
+{
+  "base": {
+    "volume": 0.0,
+    "upper": 0.0,
+    "lower": -0.0,
+    "ash_pct": 0.0,
+    "sulfur_pct": 0.0,
+    "objective_recomputed": 5593927.188604699,
+    "objective_error": 0.0
+  },
+  "deficit": {
+    "volume": 1.1368683772161603e-13,
+    "upper": 0.0,
+    "lower": -0.0,
+    "ash_pct": 0.0,
+    "sulfur_pct": 0.0,
+    "objective_recomputed": 5613758.804569312,
+    "objective_error": 0.0
+  },
+  "stress": {
+    "min_ash_without_sulfur": 8.462959999999999,
+    "ash_limit": 7.9
+  },
+  "s1_plus_one": {
+    "volume": 0.0,
+    "upper": 0.0,
+    "lower": -0.0,
+    "ash_pct": 0.0,
+    "sulfur_pct": 0.0,
+    "objective_recomputed": 5593548.151382824,
+    "objective_error": 0.0
+  },
+  "ash_plus": {
+    "volume": 0.0,
+    "upper": 0.0,
+    "lower": -0.0,
+    "ash_pct": 0.0,
+    "sulfur_pct": 0.0,
+    "objective_recomputed": 5587230.370139322,
+    "objective_error": 9.313225746154785e-10
+  },
+  "sulfur_plus": {
+    "volume": 1.1368683772161603e-13,
+    "upper": 0.0,
+    "lower": -0.0,
+    "ash_pct": 0.0,
+    "sulfur_pct": 0,
+    "objective_recomputed": 5586665.387814514,
+    "objective_error": 0.0
+  }
+}

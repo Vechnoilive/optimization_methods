@@ -1,0 +1,89 @@
+{
+  "base": {
+    "role_balance": 0.0,
+    "one_team": 0.0,
+    "activation": 0.0,
+    "no_unused_hires": 0.0,
+    "incompatible_pairs": 0.0,
+    "bounds": -0.0,
+    "unavailable": 0.0,
+    "integrality": 0.0,
+    "hire_exactness": 0.0,
+    "objective_recomputed": 366.0,
+    "objective_error": 0.0
+  },
+  "deficit": {
+    "role_balance": 0.0,
+    "one_team": 0.0,
+    "activation": 0.0,
+    "no_unused_hires": 0.0,
+    "incompatible_pairs": 0.0,
+    "bounds": -0.0,
+    "unavailable": 0.0,
+    "integrality": 0.0,
+    "hire_exactness": 0.0,
+    "objective_recomputed": 389.0,
+    "objective_error": 0.0
+  },
+  "stress": {
+    "role_balance": 0.0,
+    "one_team": 0.0,
+    "activation": 0.0,
+    "no_unused_hires": 0.0,
+    "incompatible_pairs": 0.0,
+    "bounds": -0.0,
+    "unavailable": 0.0,
+    "integrality": 0.0,
+    "hire_exactness": 0.0,
+    "objective_recomputed": 410.0,
+    "objective_error": 0.0
+  },
+  "base_lp": {
+    "role_balance": 0.0,
+    "one_team": 0.0,
+    "activation": 0.0,
+    "no_unused_hires": 0.0,
+    "incompatible_pairs": 0.0,
+    "bounds": -0.0,
+    "unavailable": 0.0,
+    "objective_recomputed": 358.5,
+    "objective_error": 0.0
+  },
+  "loose_lp": {
+    "role_balance": 0.0,
+    "one_team": 0.0,
+    "activation": 0.0,
+    "no_unused_hires": 0.0,
+    "incompatible_pairs": 0.0,
+    "bounds": -0.0,
+    "unavailable": 0.0,
+    "objective_recomputed": 242.616,
+    "objective_error": 0.0
+  },
+  "loose_milp": {
+    "role_balance": 0.0,
+    "one_team": 0.0,
+    "activation": 0.0,
+    "no_unused_hires": 0.0,
+    "incompatible_pairs": 0.0,
+    "bounds": -0.0,
+    "unavailable": 0.0,
+    "integrality": 0.0,
+    "hire_exactness": 0.0,
+    "objective_recomputed": 366.0,
+    "objective_error": 0.0
+  },
+  "greedy": {
+    "role_balance": 0.0,
+    "one_team": 0.0,
+    "activation": 0.0,
+    "no_unused_hires": 0.0,
+    "incompatible_pairs": 0.0,
+    "bounds": -0.0,
+    "unavailable": 0.0,
+    "integrality": 0.0,
+    "hire_exactness": 0.0,
+    "objective_recomputed": 388.0,
+    "objective_error": 0.0
+  }
+}

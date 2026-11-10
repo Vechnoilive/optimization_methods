@@ -1,0 +1,13 @@
+{
+  "zone_balance": 0.0,
+  "arc_upper": 0.0,
+  "arc_lower": -0.0,
+  "objective_recomputed": 3000.0,
+  "objective_error": 0.0,
+  "dual_feasibility": -0.0,
+  "arc_lower_complementarity": 0.0,
+  "arc_upper_complementarity": 0.0,
+  "dual_objective_error": 0.0,
+  "duality_gap": 0.0,
+  "dual_objective": 3000.0
+}

@@ -1,0 +1,37 @@
+{
+  "base": {
+    "zone_balance": 0.0,
+    "arc_upper": 0.0,
+    "arc_lower": -0.0,
+    "objective_recomputed": 3000.0,
+    "objective_error": 0.0
+  },
+  "congestion": {
+    "zone_balance": 0.0,
+    "arc_upper": 0.0,
+    "arc_lower": -0.0,
+    "objective_recomputed": 3037.5,
+    "objective_error": 0.0
+  },
+  "growth": {
+    "zone_balance": 0.0,
+    "arc_upper": 0.0,
+    "arc_lower": -0.0,
+    "objective_recomputed": 3630.0,
+    "objective_error": 0.0
+  },
+  "failure": {
+    "zone_balance": 0.0,
+    "arc_upper": 0.0,
+    "arc_lower": -0.0,
+    "objective_recomputed": 3262.0,
+    "objective_error": 0.0
+  },
+  "greedy": {
+    "zone_balance": 0.0,
+    "arc_upper": 0.0,
+    "arc_lower": -0.0,
+    "objective_recomputed": 3088.0,
+    "objective_error": 0.0
+  }
+}

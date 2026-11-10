@@ -1,0 +1,7 @@
+scenario,s2_capacity,ash_limit,sulfur_limit,status,cost,actual_ash,actual_sulfur,iterations
+base,376.0,11.0,1.04,optimal,5593927.188604699,11.0,1.04,3
+deficit,300.8,11.0,1.04,optimal,5613758.804569312,11.0,1.04,4
+stress,300.8,7.9,1.04,infeasible,,,,5
+s1_plus_one,376.0,11.0,1.04,optimal,5593548.151382824,11.0,1.04,3
+ash_plus,376.0,11.1,1.04,optimal,5587230.370139323,11.1,1.04,3
+sulfur_plus,376.0,11.0,1.05,optimal,5586665.387814514,11.0,1.0499999999999998,4
