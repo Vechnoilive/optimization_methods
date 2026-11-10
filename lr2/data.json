@@ -1,0 +1,85 @@
+{
+  "seed": 10012,
+  "balance": [
+    40,
+    35,
+    25,
+    -30,
+    -35,
+    -35
+  ],
+  "arcs": [
+    {
+      "tail": 1,
+      "head": 4,
+      "capacity": 23,
+      "cost": 21
+    },
+    {
+      "tail": 1,
+      "head": 5,
+      "capacity": 37,
+      "cost": 40
+    },
+    {
+      "tail": 1,
+      "head": 6,
+      "capacity": 40,
+      "cost": 25
+    },
+    {
+      "tail": 2,
+      "head": 4,
+      "capacity": 35,
+      "cost": 25
+    },
+    {
+      "tail": 2,
+      "head": 5,
+      "capacity": 38,
+      "cost": 26
+    },
+    {
+      "tail": 2,
+      "head": 6,
+      "capacity": 40,
+      "cost": 56
+    },
+    {
+      "tail": 3,
+      "head": 4,
+      "capacity": 35,
+      "cost": 48
+    },
+    {
+      "tail": 3,
+      "head": 5,
+      "capacity": 14,
+      "cost": 21
+    },
+    {
+      "tail": 3,
+      "head": 6,
+      "capacity": 33,
+      "cost": 30
+    },
+    {
+      "tail": 1,
+      "head": 2,
+      "capacity": 17,
+      "cost": 14
+    },
+    {
+      "tail": 4,
+      "head": 6,
+      "capacity": 17,
+      "cost": 16
+    },
+    {
+      "tail": 5,
+      "head": 6,
+      "capacity": 16,
+      "cost": 26
+    }
+  ]
+}
